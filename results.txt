@@ -1,0 +1,303 @@
+F: 
+Metrics of Classic GANs
+mean
+UQI        0.991779
+VIFP       0.012072
+SCC        0.000252
+SAM        0.098807
+ERGAS      2.479440
+RASE     211.252458
+SIFT      31.300000
+SSIM       0.924109
+DTW       43.849335
+
+min
+UQI        0.990028
+VIFP       0.001380
+SCC       -0.001986
+SAM        0.090377
+ERGAS      2.268925
+RASE     181.004654
+SIFT      12.000000
+SSIM       0.910507
+DTW        4.916508
+
+max
+UQI        0.993041
+VIFP       0.074220
+SCC        0.007538
+SAM        0.109177
+ERGAS      2.745081
+RASE     253.215714
+SIFT      48.000000
+SSIM       0.938582
+DTW      231.434189
+
+
+
+Metrics of GANs with Custom Loss
+UQI        0.992202
+VIFP       0.008871
+SCC        0.000038
+SAM        0.096731
+ERGAS      2.425230
+RASE     200.762099
+SIFT      27.700000
+SSIM       0.925766
+DTW       27.992227
+dtype: float64
+UQI        0.989887
+VIFP       0.000924
+SCC       -0.002455
+SAM        0.090290
+ERGAS      2.263561
+RASE     169.858978
+SIFT      13.000000
+SSIM       0.905922
+DTW        0.885765
+dtype: float64
+UQI        0.993377
+VIFP       0.032505
+SCC        0.000750
+SAM        0.109251
+ERGAS      2.746026
+RASE     261.160919
+SIFT      51.000000
+SSIM       0.939998
+DTW       92.410210
+dtype: float64
+
+
+
+Metrics of MD-GAN
+UQI        0.991125
+VIFP       0.008023
+SCC        0.000051
+SAM        0.101794
+ERGAS      2.556729
+RASE     227.151608
+SIFT      24.500000
+SSIM       0.919179
+DTW       71.512607
+dtype: float64
+UQI        0.986994
+VIFP       0.000756
+SCC       -0.001670
+SAM        0.093343
+ERGAS      2.338843
+RASE     187.548065
+SIFT      12.000000
+SSIM       0.893094
+DTW        6.204656
+dtype: float64
+UQI        0.992733
+VIFP       0.019262
+SCC        0.001648
+SAM        0.120465
+ERGAS      3.043241
+RASE     328.780762
+SIFT      38.000000
+SSIM       0.930997
+DTW      351.039368
+dtype: float64
+
+
+
+S:
+
+Metrics of Classic GANs
+UQI        0.990990
+VIFP       0.005497
+SCC       -0.000035
+SAM        0.102722
+ERGAS      2.575075
+RASE     222.092335
+SIFT      29.350000
+SSIM       0.918981
+DTW       81.850375
+dtype: float64
+UQI        0.989435
+VIFP       0.000350
+SCC       -0.002405
+SAM        0.093479
+ERGAS      2.341745
+RASE     180.847076
+SIFT      12.000000
+SSIM       0.908235
+DTW        4.377244
+dtype: float64
+UQI        0.992757
+VIFP       0.027740
+SCC        0.001127
+SAM        0.110135
+ERGAS      2.763828
+RASE     257.434814
+SIFT      61.000000
+SSIM       0.934832
+DTW      574.771667
+
+
+Metrics of GANs with Custom Loss
+UQI        0.991024
+VIFP       0.011677
+SCC        0.000089
+SAM        0.102409
+ERGAS      2.568445
+RASE     222.248566
+SIFT      28.450000
+SSIM       0.920421
+DTW       53.233516
+dtype: float64
+UQI        0.988038
+VIFP       0.000533
+SCC       -0.001243
+SAM        0.079415
+ERGAS      1.990623
+RASE     144.308731
+SIFT      10.000000
+SSIM       0.894435
+DTW        1.742333
+dtype: float64
+UQI        0.994689
+VIFP       0.090130
+SCC        0.002316
+SAM        0.117831
+ERGAS      2.964296
+RASE     298.391754
+SIFT      47.000000
+SSIM       0.953818
+DTW      230.138000
+dtype: float64
+
+
+Metrics of MD-GAN
+UQI        0.988883
+VIFP       0.003334
+SCC        0.000084
+SAM        0.112477
+ERGAS      2.827117
+RASE     271.321306
+SIFT      27.250000
+SSIM       0.906101
+DTW      176.613969
+dtype: float64
+UQI        0.985762
+VIFP       0.000091
+SCC       -0.000732
+SAM        0.099005
+ERGAS      2.480413
+RASE     204.032730
+SIFT       9.000000
+SSIM       0.884798
+DTW       55.679691
+dtype: float64
+UQI        0.991637
+VIFP       0.006677
+SCC        0.001047
+SAM        0.126965
+ERGAS      3.207449
+RASE     351.507904
+SIFT      64.000000
+SSIM       0.926451
+DTW      543.170227
+dtype: float64
+
+
+
+Q:
+Metrics of Classic GANs
+UQI        0.990611
+VIFP       0.008304
+SCC        0.000061
+SAM        0.102923
+ERGAS      2.580319
+RASE     220.102630
+SIFT      20.731250
+SSIM       0.921823
+DTW       92.047467
+dtype: float64
+UQI        0.986582
+VIFP       0.000134
+SCC       -0.003126
+SAM        0.090009
+ERGAS      2.254309
+RASE     173.048996
+SIFT       4.000000
+SSIM       0.898585
+DTW        4.405329
+dtype: float64
+UQI        0.992879
+VIFP       0.053611
+SCC        0.002826
+SAM        0.121127
+ERGAS      3.052399
+RASE     315.049469
+SIFT      43.000000
+SSIM       0.939116
+DTW      349.964661
+dtype: float64
+
+Metrics of GANs with Custom Loss
+UQI        0.990164
+VIFP       0.006532
+SCC       -0.000019
+SAM        0.105044
+ERGAS      2.634986
+RASE     231.007959
+SIFT      18.775000
+SSIM       0.919009
+DTW       62.230681
+dtype: float64
+UQI        0.985858
+VIFP       0.000141
+SCC       -0.002824
+SAM        0.088566
+ERGAS      2.220233
+RASE     172.804123
+SIFT       3.000000
+SSIM       0.891581
+DTW        4.026937
+dtype: float64
+UQI        0.993113
+VIFP       0.055389
+SCC        0.002031
+SAM        0.124766
+ERGAS      3.144691
+RASE     331.804718
+SIFT      55.000000
+SSIM       0.941800
+DTW      269.721527
+
+Metrics of MD-GAN
+UQI        0.989436
+VIFP       0.005860
+SCC       -0.000089
+SAM        0.108493
+ERGAS      2.723662
+RASE     248.072347
+SIFT      20.818750
+SSIM       0.913960
+DTW      132.818187
+dtype: float64
+UQI        0.985401
+VIFP       0.000158
+SCC       -0.003118
+SAM        0.092209
+ERGAS      2.310654
+RASE     182.604065
+SIFT       3.000000
+SSIM       0.885977
+DTW        9.426184
+dtype: float64
+UQI        0.992463
+VIFP       0.038680
+SCC        0.001468
+SAM        0.127405
+ERGAS      3.217639
+RASE     347.871582
+SIFT      65.000000
+SSIM       0.937363
+DTW      375.545013
+dtype: float64
+
+
